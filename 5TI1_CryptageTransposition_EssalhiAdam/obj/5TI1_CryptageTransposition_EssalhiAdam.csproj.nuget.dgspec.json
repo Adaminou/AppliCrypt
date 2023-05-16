@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\200537.asty-moulin\\source\\repos\\AppliCryptTranspo\\AppliCryptTranspo\\AppliCryptTranspo.csproj": {}
+    "C:\\Users\\Carrefour\\Desktop\\5TI1_CryptageTransposition_EssalhiAdam\\5TI1_CryptageTransposition_EssalhiAdam\\5TI1_CryptageTransposition_EssalhiAdam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\200537.asty-moulin\\source\\repos\\AppliCryptTranspo\\AppliCryptTranspo\\AppliCryptTranspo.csproj": {
+    "C:\\Users\\Carrefour\\Desktop\\5TI1_CryptageTransposition_EssalhiAdam\\5TI1_CryptageTransposition_EssalhiAdam\\5TI1_CryptageTransposition_EssalhiAdam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\200537.asty-moulin\\source\\repos\\AppliCryptTranspo\\AppliCryptTranspo\\AppliCryptTranspo.csproj",
-        "projectName": "AppliCryptTranspo",
-        "projectPath": "C:\\Users\\200537.asty-moulin\\source\\repos\\AppliCryptTranspo\\AppliCryptTranspo\\AppliCryptTranspo.csproj",
-        "packagesPath": "C:\\Users\\200537.asty-moulin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\200537.asty-moulin\\source\\repos\\AppliCryptTranspo\\AppliCryptTranspo\\obj\\",
+        "projectUniqueName": "C:\\Users\\Carrefour\\Desktop\\5TI1_CryptageTransposition_EssalhiAdam\\5TI1_CryptageTransposition_EssalhiAdam\\5TI1_CryptageTransposition_EssalhiAdam.csproj",
+        "projectName": "5TI1_CryptageTransposition_EssalhiAdam",
+        "projectPath": "C:\\Users\\Carrefour\\Desktop\\5TI1_CryptageTransposition_EssalhiAdam\\5TI1_CryptageTransposition_EssalhiAdam\\5TI1_CryptageTransposition_EssalhiAdam.csproj",
+        "packagesPath": "C:\\Users\\Carrefour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carrefour\\Desktop\\5TI1_CryptageTransposition_EssalhiAdam\\5TI1_CryptageTransposition_EssalhiAdam\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\200537.asty-moulin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Carrefour\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
